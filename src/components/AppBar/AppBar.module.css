@@ -1,0 +1,17 @@
+.container{
+    margin-bottom: 80px;
+}
+
+.typography{
+    flex:1;
+}
+
+.title {
+    text-align: left;
+    background-color: #7fd4c2 !important;
+}
+
+.typography a{
+    text-decoration: none;
+    color:black;
+}
